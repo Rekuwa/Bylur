@@ -1,2 +1,2 @@
 # Bylur
-A reaction role bot mainly use for the server "Art Cafe"
+A reaction role bot used for the server "Art Cafe"
